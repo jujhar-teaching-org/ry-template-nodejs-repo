@@ -5,6 +5,10 @@ metadata:
   name: ry-nodejs-template
   title: RY Node.js Template
   description: An example template for the scaffolder that creates a simple Node.js service
+  tags: 
+    - express
+    - nodejs
+    - riteshSuperstar
 spec:
   owner: user:guest
   type: service
