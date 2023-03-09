@@ -1,0 +1,15 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "Sample node JS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
