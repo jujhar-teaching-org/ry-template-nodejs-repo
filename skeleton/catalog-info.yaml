@@ -9,4 +9,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: ${{ values.owner }}
+  # owner: ${{ values.owner }}
+  owner: user:guest
