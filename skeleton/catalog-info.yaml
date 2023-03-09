@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: ${{ values.name }}
-  # description: ${{ values.description }}
-  description: Hard-coded description for the catalog
+  description: ${{ values.description }}
+  # description: Hard-coded description for the catalog
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
